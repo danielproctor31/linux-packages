@@ -1,0 +1,7 @@
+org.mozilla.firefox
+com.google.Chrome
+net.lutris.Lutris
+com.heroicgameslauncher.hgl
+com.valvesoftware.Steam
+org.cryptomator.Cryptomator
+com.notesnook.Notesnook
