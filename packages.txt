@@ -5,3 +5,4 @@ com.heroicgameslauncher.hgl
 com.valvesoftware.Steam
 org.cryptomator.Cryptomator
 com.notesnook.Notesnook
+org.libreoffice.LibreOffice
