@@ -9,5 +9,4 @@ flatpak override --user com.valvesoftware.Steam --filesystem=xdg-config/MangoHud
 flatpak override --user com.heroicgameslauncher.hgl --filesystem=xdg-config/MangoHud:ro
 flatpak override --user net.lutris.Lutris --filesystem=xdg-config/MangoHud:ro
 
-flatpak override --user com.google.Chrome --filesystem=~/.local/share/applications
-flatpak override --user com.google.Chrome --filesystem=~/.local/share/icons 
+flatpak override --user --filesystem=~/.local/share/applications:create --filesystem=~/.local/share/icons:create com.google.Chrome
