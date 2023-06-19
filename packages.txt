@@ -4,6 +4,4 @@ net.lutris.Lutris
 com.heroicgameslauncher.hgl
 com.valvesoftware.Steam
 org.cryptomator.Cryptomator
-com.notesnook.Notesnook
 org.libreoffice.LibreOffice
-dev.lizardbyte.app.Sunshine
