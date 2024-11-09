@@ -1,9 +1,8 @@
-org.mozilla.firefox
-com.google.Chrome
+com.brave.Browser
 net.lutris.Lutris
 com.heroicgameslauncher.hgl
 com.valvesoftware.Steam
 org.cryptomator.Cryptomator
-org.libreoffice.LibreOffice
 com.plexamp.Plexamp
-org.darktable.Darktable
+com.discordapp.Discord
+org.signal.Signal
